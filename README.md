@@ -1,4 +1,5 @@
 # JsonEditor widget for Yii2 Framework uses Json Editor plugin for jQuery
+<http://yii2.kadastrcard.ru/jsoneditor>
 
 The extension uses Json Editor plugin by Author Jadesoul http://jadesoul.org for jQuery 
 and makes user interface for changing json values.
